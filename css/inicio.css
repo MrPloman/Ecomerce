@@ -25,13 +25,13 @@ div#acces{ /* Area Personal*/
     float: right;
 }
 
-div#search{
+#search{
     position: relative;
     margin-left: 1155px;
     margin-top: -10px;
 }
 
-div#caja_logo{ /* Area Logo*/
+#caja_logo{ /* Area Logo*/
     max-width: 100px;
     max-height: 100px;
     position: absolute;
@@ -45,7 +45,7 @@ div#caja_logo{ /* Area Logo*/
     background-color: transparent;
 }
 
-div#titulo{ /* Caja Título*/
+#titulo{ /* Caja Título*/
     position: relative;
     max-width: 250px;
     max-height: 100px;
@@ -178,7 +178,6 @@ h4{
 #facebook{
     margin-left: 640px;
 }
-
 
 #instagram{
     margin-left: 690px;
